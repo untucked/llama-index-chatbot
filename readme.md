@@ -41,6 +41,8 @@ The application operates through the following steps:
 - **Chat History:** Maintain a record of all interactions for easy reference.
 - **Efficient Indexing:** Rapid setup and indexing for quick query responses.
 - **Scalable Embeddings:** Utilizes robust embedding models to understand and process text effectively.
+- **Local LLMs and Internet Based LLMs:** Local LLMs from Huggingface, Meta-Llama, Ollama. Internet LLMs OpenAI
+
 
 ## Dependencies and Installation
 ----------------------------
